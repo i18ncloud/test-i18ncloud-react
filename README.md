@@ -1,5 +1,5 @@
 # I18nCloud Test Project
-This project uses i18ncloud.com to manage internatiolization of this app. You can check a demo on the following link.
+This project uses i18ncloud.com to manage internationalization of this app. You can check a demo on the following link.
 
 
 ## Install I18ncloud CLI
@@ -29,7 +29,7 @@ Edit any text content a pull the text's to our local project using the following
 i18ncloud pull
 ```
 
-To push local changes to the remote repository simply execute the folllowing command.
+To push local changes to the remote repository simply execute the following command.
 ```
 i18ncloud push
 ```
