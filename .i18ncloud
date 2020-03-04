@@ -1,0 +1,10 @@
+{
+  "JWT": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1ODIxMjc3NTQsIm5iZiI6MTU4MjEyNzc1NCwianRpIjoiODk3Yjc3YTgtYTg5Yi00Y2FkLThlYTAtZjJmMjc5YTQ1YzdiIiwiaWRlbnRpdHkiOnsiaWQiOjEsInVzZXJuYW1lIjoiaTE4bmNsb3VkLXRlc3QiLCJhcHBzIjpbeyJpZCI6MSwibmFtZSI6IkkxOG5DbG91ZCBUZXN0In1dfSwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.fq8ahhSrZGe9mVsKcgo6psKsEMFj5POsvySXXbLDsxs",
+  "projectName": "I18nCloud Test",
+  "app_id": 1,
+  "languages": [
+    "PT",
+    "EN",
+    "FR"
+  ]
+}

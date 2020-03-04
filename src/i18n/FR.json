@@ -1,0 +1,7 @@
+{
+  "translation": {
+    "home.description": "i18ncloud est un outil d'internationalisation conçu pour aider à internationaliser les applications développées sur le Web en utilisant i18next.\nCet outil fournit une interface de ligne de commande (CLI) qui permet de gérer rapidement et facilement le contenu textuel de votre application Web.",
+    "home.link": "Maintenant que nous savons qui vous êtes, je sais qui je suis. Je ne suis pas une erreur! Tout devient clair! Dans une bande dessinée, vous savez comment vous pouvez dire qui sera l'archi-méchant? Il est l'exact opposé du héros. Et la plupart du temps, ce sont des amis, comme vous et moi! J'aurais dû savoir depuis quand ... Tu sais pourquoi, David? À cause des enfants. Ils m'ont appelé M. Glass.",
+    "home.title": "I18nCloud Projet de Test"
+  }
+}

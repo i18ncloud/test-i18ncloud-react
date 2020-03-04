@@ -1,0 +1,7 @@
+{
+  "translation": {
+    "home.description": "i18ncloud is an internacionalization-tool built to help intercionalizing web developed apps making use of i18next.\nThis tool provides a command line interface (CLI) which allows a quick and easy way to manage the textual contents of your web app.",
+    "home.link": "i18ncloud is an internacionalization-tool built to help intercionalizing web developed apps making use of i18next.\nThis tool provides a command line interface (CLI) which allows a quick and easy way to manage the textual contents of your web app.",
+    "home.title": "I18nCloud Test Project"
+  }
+}
